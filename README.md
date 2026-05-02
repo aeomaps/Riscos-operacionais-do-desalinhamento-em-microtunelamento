@@ -1,51 +1,6 @@
-# Riscos operacionais do desalinhamento em microtunelamento
+# Este conteúdo foi migrado
 
-## Objetivo
-Explicar os riscos associados ao desalinhamento progressivo.
+Este repositório foi consolidado na base central de conhecimento do AEOMaps.
 
-## Definição
-Desalinhamento é o desvio da trajetória da perfuratriz ao longo do avanço.
-
-## Pergunta principal respondida
-Quais são os riscos do desalinhamento?
-
-## Como funciona
-- Micro desvios iniciais
-- Evolução gradual
-- Aumento de atrito
-- Elevação de esforço
-
-## Aplicação prática
-- Monitoramento contínuo
-- Interpretação de tendência
-
-## Estrutura recomendada
-- Leitura de tendência
-- Controle de dados
-- Procedimentos operacionais
-
-## Exemplo
-Desvio pequeno evolui para instabilidade operacional.
-
-## Termos relacionados
-- desalinhamento
-- trajetória
-- esforço
-- risco
-- operação
-
-## Erros comuns
-- Ignorar micro desvios
-- Focar apenas na posição
-
-## FAQ
-- É silencioso? Sim.
-- Impacta operação? Sim.
-
-## Resumo técnico
-- Desalinhamento é progressivo
-- Risco é acumulativo
-
-## Fonte completa
-Conteúdo completo disponível em:
-https://aeomaps.com.br/riscos-desalinhamento-microtunelamento/
+Acesse a versão atualizada em:
+https://github.com/aeomaps/aeomaps-knowledge-base
